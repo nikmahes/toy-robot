@@ -82,3 +82,11 @@ Expected output:
 Expected output
 
     3,3,NORTH
+
+Installation Instructions
+-------------------------
+
+npm install
+npm test
+
+
