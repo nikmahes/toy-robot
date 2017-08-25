@@ -1,6 +1,15 @@
 Toy Robot Simulator
 ===================
 
+Installation Instructions
+-------------------------
+
+$ git clone https://github.com/nikmahes/toy-robot.git
+
+$ npm install
+
+$ npm test
+
 Description
 -----------
 
@@ -82,11 +91,3 @@ Expected output:
 Expected output
 
     3,3,NORTH
-
-Installation Instructions
--------------------------
-
-npm install
-npm test
-
-
